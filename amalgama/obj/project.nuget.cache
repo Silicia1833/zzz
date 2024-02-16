@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8jgY25oXkT/0Zcerjq2tg64M9K4cU0GwvlNRY+lCgiGLE6Ya0QrkCpyT9s3L9QaxiBkGJcvMAjh5pR4bRyjyoQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Пользователь\\source\\repos\\amalgama\\amalgama.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Пользователь\\.nuget\\packages\\materialdesigncolors\\2.1.4\\materialdesigncolors.2.1.4.nupkg.sha512",
+    "C:\\Users\\Пользователь\\.nuget\\packages\\materialdesignthemes\\4.9.0\\materialdesignthemes.4.9.0.nupkg.sha512",
+    "C:\\Users\\Пользователь\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}
